@@ -1,10 +1,9 @@
+![23](https://github.com/abiribahullas7766/abiribahullas7766/assets/54986400/19aca1bb-c115-4ddb-9a72-0bf519f2efae)
 <h1 align="center">Hi 👋, I'm Md Abiribah Ullas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiribahullas7766&label=Profile%20views&color=0e75b6&style=flat" alt="abiribahullas7766" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiribahullas7766" alt="abiribahullas7766" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Project**
 
