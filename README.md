@@ -1,7 +1,3 @@
-
-![23](https://github.com/abiribahullas7766/abiribahullas7766/assets/54986400/8f58ca81-33ae-4201-8335-cd14cc2eb7ac)
-
-
 <h1 align="center">Hi 👋, I'm Md Abiribah Ullas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
